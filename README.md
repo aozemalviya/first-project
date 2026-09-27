@@ -26,10 +26,7 @@ The system reduces manual calculation errors and keeps employee and salary data 
 - SQLite
 - Visual Studio Code
 - Git and GitHub
-
-## How to Install and Run
-
-
+- 
 ### Requirements
 - Python 3.8 or higher
 
